@@ -9,8 +9,8 @@ Polska | Otwartość na współpracę i nowe wyzwania
 
 | Projekt | Opis | Technologie |
 |--------|------|-------------|
-| [Paczkomat](https://github.com/GawronK/Paczkomat) | Projekt paczkomatu z zaprojektowanym zamkiem sterowanym elektronicznie | NX, Arduino, C++ |
 | [Robot z RPLIDARem A2](https://github.com/GawronK/RPLidar_based_robot) | Mobilny robot oparty na Raspberry Pi, wyposażony w RPLIDAR A2 do mapowania i omijania przeszkód | Raspberry Pi, Python, SLAM, ROS, NX |
+| [Paczkomat](https://github.com/GawronK/Paczkomat) | Projekt paczkomatu z zaprojektowanym zamkiem sterowanym elektronicznie | NX, Arduino, C++ |
 | [Hologram sterowany](https://github.com/TwojGitHub/modelowanie-3D) - w trakcie| Porusznie dłonią modelu STL | Raspberry Pi, Kamera, Cpp, SS|
 | [Robot wchodzący po schodach](https://github.com/GawronK/Robot_schodochod) | Symulacja i projekt wykonania robota wchodzącego po schodach | Arduino Mega, czujniki, Adams|
 | Projekty koło naukowe SNS Synchron | Rejestr kluczy, Ramię robota | Arduino Leonardo, ESP32, Bluetooth, krańcówki|
